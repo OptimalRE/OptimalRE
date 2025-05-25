@@ -1,16 +1,37 @@
-## Hi there 👋
+# coding optimally - 0 problems found 👋
 
-<!--
-**OptimalRE/OptimalRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Developer. Game dev by day, RE by night.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Programming Languages
+- 🐍 Python (fluent)
+- ➕ C++ (advanced)
+- 🔷 C# (advanced)
+- 🌐 JavaScript (advanced)
+- 🦀 Rust (intermediate)
+- 🧭 Go (intermediate)
+
+---
+
+## 👾 What I Do
+- 🎮 Game development (day job)
+- 🕵️ Reverse engineering (night hobby)
+- 🧰 Tool development for game internals
+
+---
+
+## 🔬 Areas of Interest
+- Game engine internals
+- Custom tooling and automation
+- Debugging and binary analysis
+- Low-level programming & graphics
+
+---
+
+## 💼 Projects
+While most of my work remains private, I’ve spent countless hours reverse engineering games and building custom tools. I'll eventually get to publicizing some of these at some point. Some highlights:
+- 🔧 Private RE tools for game analysis
+- 🛠️ Engine analysis and deconstruction
+
+---
